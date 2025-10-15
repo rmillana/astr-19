@@ -1,0 +1,2 @@
+print("My name is Rodrigo Millan and my pronouns are he/him.")
+print("My favorite movie is Everything Everywhere All At Once, because of the story that the movie encapsulates perfectly. My favorite food is pizza, because I am a picky eater and it does not take a lot to satisfy me.")
